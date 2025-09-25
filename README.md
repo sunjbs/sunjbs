@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjbs&layout=compact&theme=light)
+
 [![sunjbs's github stats](https://github-readme-stats.vercel.app/api?username=sunjbs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
